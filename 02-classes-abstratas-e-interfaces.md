@@ -131,4 +131,4 @@ Alguns pontos importantes:
 - Uma interface pode estender uma ou mais interfaces.
 - Uma interface não pode estender nada que não seja uma interface.
 - Uma interface não pode implementar nem outra interface nem outra classe.
-- Posso usar a palavra abstract na definição da interface, mas isso é considera redundante, pois as interfaces são implicitamente abstract.
+- Posso usar a palavra abstract na definição da interface, mas isso é considerado redundante, pois as interfaces são implicitamente abstract.
