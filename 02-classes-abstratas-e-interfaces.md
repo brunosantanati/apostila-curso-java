@@ -109,6 +109,9 @@ Considere uma interface como uma classe 100% abstrata, porém você deve utiliza
 ```java
 public interface Carro { }
 ```
+As variáveis declaradas em uma interface são sempre constantes, ou seja, mesmo que não especifiquemos elas são sempre public static final.
+
+Os métodos declarados em uma interface são sempre públicos e abstratos, independente de indicarmos isso ou não.
 
 ```java
 public interface Carro {
@@ -121,10 +124,6 @@ public interface Carro {
 
 }
 ```
-
-As variáveis declaradas em uma interface são sempre constantes, ou seja, mesmo que não especifiquemos elas são sempre public static final.
-
-Os métodos declarados em uma interface são sempre públicos e abstratos, independente de indicarmos isso ou não.
 
 Alguns pontos importantes:
 
