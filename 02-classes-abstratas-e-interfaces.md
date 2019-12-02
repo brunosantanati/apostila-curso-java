@@ -177,7 +177,7 @@ Alguns pontos importantes:
 - Uma interface não pode implementar nem outra interface nem outra classe.
 - Posso usar a palavra abstract na definição da interface, mas isso é considerado redundante, pois as interfaces são implicitamente abstract.
 
-### Exercício
+### Exercício utilizando uma interface na prática
 
 O objetivo do exercício é ver na prática como usar uma interface, ao mesmo tempo utilizaremos o polimorfismo e o design pattern Strategy.
 
